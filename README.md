@@ -6,7 +6,7 @@ This repository contains all tasks for the internship project.
 
 1. **Task 1 AI_MI Engineering - bank_marketing_analysis.ipynb** 
 2. **Task 2 AI_MI Engineering - nba_performance_analysis.ipynb**
-3. **Task 3 AI_MI Engineering** 
+3. **Task 3 AI_MI Engineering - remaining task only** 
 
 ## 📌 Instructions to Run
 
