@@ -4,9 +4,9 @@ This repository contains all tasks for the internship project.
 
 ## 📌 Tasks
 
-1. **Task 1 Analysis** - `task1\_analysis.ipynb`
-2. **Bank Marketing Analysis - bank\_marketing\_analysis.ipynb**
-3. **Task 3 Analysis** - `task3_analysis.ipynb`
+1. **Task 1 AI_MI Engineering - bank_marketing_analysis.ipynb** 
+2. **Task 2 AI_MI Engineering - nba_performance_analysis.ipynb**
+3. **Task 3 AI_MI Engineering** 
 
 ## 📌 Instructions to Run
 
