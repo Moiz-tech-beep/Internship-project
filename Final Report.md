@@ -1,10 +1,15 @@
 📊 Final Report – Data Science Internship
+
 🔍 Overview
+
 This internship involved working on two real-world data science problems using Python and Jupyter Notebooks. 
+
 The objective was to gain hands-on experience in data preprocessing, exploratory data analysis (EDA), feature engineering, and machine learning model development.
 
 ✅ Tasks Completed
-Task 1: Bank Marketing Analysis (Classification)
+
+✅Task 1: Bank Marketing Analysis
+
 Objective: Predict if a customer will subscribe to a term deposit.
 
 Dataset: Banking system.
@@ -20,9 +25,11 @@ Steps:
 Insights:
 
 a. Contact type and duration were key predictors.
+
 b. Balance and previous campaign outcomes also influenced subscriptions.
 
-Task 2: NBA Player Performance Prediction (Regression)
+✅Task 2: NBA Player Performance Prediction (Regression)
+
 Objective: Predict NBA player performance based on statistics.
 
 Dataset: Player stats including points, assists, rebounds, etc.
@@ -38,6 +45,7 @@ Steps:
 Insights:
 
 Points per game, minutes played, and efficiency metrics had the highest impact.
+
 Ridge Regression slightly outperformed Linear Regression by reducing overfitting.
 
 🧠 Skills Applied
@@ -50,5 +58,7 @@ Ridge Regression slightly outperformed Linear Regression by reducing overfitting
 7. GitHub for code sharing and documentation
 
 ✅ Submission
+
 This GitHub repository is the final submission for the internship project. 
+
 All tasks are completed and notebooks are documented with code, visualizations, and insights.
